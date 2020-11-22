@@ -1,6 +1,6 @@
 ## Coffee Sippers Welcome You
 
-Get a subdomain here or at [Inner I Net Company](https://innerinetcompany.cardd.co/).
+Get a subdomain here or at [Inner I Net Company](https://innerinetcompany.carrd.co/).
 
 - more [HNS-DOMAINS](http://home.hns-domains/).
 - Our domains are on [Handshake blockchain](https://handshake.org/) which is like uncensorable and free of gatekeepers!! 
