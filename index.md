@@ -10,3 +10,18 @@ by [![image](https://user-images.githubusercontent.com/37987346/101912317-962066
 - donate to True CoffeeSippers/ send $HNS to hs1qgm5aqe467tuh9wauaffmtk49pw8euk2kww6hc8
 
 # send us Lightning Tips [tip.coffeesippers/](http://tip.coffeesippers.hns.is/) | tip us in Bitcoin [BTC.coffeesippers/](http://btc.coffeesippers.hns.is/) 
+<html>
+<marquee
+
+     direction="left"
+     loop="7"
+     scrollamount="3"
+     scrolldelay="2"
+     behavior="left"
+     width="144%"
+     bgcolor="#ff3424"
+ 
+     >
+🐘🕸
+</marquee>
+  </html>
